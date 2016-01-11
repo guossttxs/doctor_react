@@ -1,0 +1,5 @@
+#!/bin/bash
+
+npm run deploy
+
+cp build/bundle.js ../nuanxin/static/js/doctor/

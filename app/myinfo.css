@@ -1,0 +1,182 @@
+.myinfo-editor-div {
+    height: 40px;
+    border-bottom: solid 1px #eeeeee;
+}
+
+.myinfo-editor-btn {
+    width:80px;
+    height: 30px;
+    border-radius: 10px;
+    float:right;
+    font-size: 15px;
+    background-color: orange;
+    color:white;
+    border:0;
+}
+
+.showinfo-div {
+    padding:2% 5% ;
+    color:#8e8e8e;
+    margin-bottom: 100px;
+}
+
+.showinfo-div textarea {
+    overflow-y:auto;
+    width:80%;
+}
+
+.showinfo-div p {
+    font-size: 18px;
+    margin-bottom:2%;
+}
+
+.showinfo-div input {
+    height:20px;
+    border-radius: 5px;
+}
+
+.showinfo-div .input-memo {
+    width: 300px;
+    height:80px;
+    padding: 0;
+}
+
+.img-div-rit {
+    float:right;
+    border:solid 1px #eeeeee;
+}
+
+.img-div-rit img {
+    width:120px;
+    height:150px;
+}
+
+.editor-input-btn {
+    width:80px;
+    height: 35px !important;
+    font-size: 16px;
+    background-color: orange;
+    color: white;
+    border-radius: 5px;
+    border:0;
+}
+
+.doctor-tab {
+  border: 1px solid #eeeeee;
+  border-collapse: collapse;
+}
+
+ .doctor-tab  th {
+  border:1px solid #eeeeee;
+  padding: 5px;
+  text-align: center;
+  color: #AAAAAA;
+  width: 80px;
+  overflow:hidden
+}
+
+.doctor-tab  img {
+  height: 15px;
+}
+
+.div-rit {
+    float:right;
+}
+
+.case-title {
+  color:white;
+  background-color: orange;
+  font-size: 18px;
+  padding-left: 15px;
+}
+
+.case-pres {
+  text-indent: 0.5cm;
+  padding: 5px;
+}
+
+.eidtor-case {
+  float: right;
+}
+
+.showMed-div {
+    padding:2% 5%;
+    color:#8e8e8e;
+    margin-bottom: 100px;
+}
+
+.showMed-div .title {
+  font-size: 18px;
+  background-color: orange;
+  color: white;
+  border-radius: 5px;
+}
+
+.showMed-div .name {
+  padding-top: 3px;
+  border-bottom: solid,1px,#eeeeee;
+}
+
+.showMed-div .name p {
+  font-size: 20px;
+}
+
+.model-method {
+  border:solid 1px orange;
+  border-collapse: collapse;
+  padding: 0;
+  width:75%;
+}
+
+.model-method td {
+  border:solid 1px orange;
+  width: 25%;
+  height:26px;
+}
+
+.model-method-div {
+  padding: 15px;
+}
+
+.model-show-div {
+  padding:2% 5%;
+  margin-bottom: 100px;
+}
+
+.model-title-div {
+  width:75%;
+  height:28px;
+  padding-left: 2px;
+  padding-top: 2px;
+  margin-bottom: 5px;
+  background-color: orange;
+  color:white;
+  border-radius: 5px;
+}
+
+.model-del-sp {
+  float:right;
+}
+
+.model-btn-rit {
+  float: right;
+  margin-bottom: 10px;
+}
+
+.model-btn-rit button {
+  width:70px;
+  height:30px;
+  margin-right: 15px;
+}
+
+.add-model-div {
+  border-bottom: solid 1px gray;
+}
+
+.add-model-div div {
+  padding-top: 8px;
+}
+
+.clear {
+  clear:both;
+}

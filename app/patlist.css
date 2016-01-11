@@ -1,0 +1,137 @@
+/*************************************************/
+/*字体的定义
+/*************************************************/
+.small-font-size {
+  font-size: 10px !important;
+}
+
+.meddle-font-size {
+  font-size: 12px !important;
+}
+
+.large-font-size {
+  font-size: 14px !important;
+}
+
+.super-large-font-size {
+  font-size: 20px !important;
+}
+
+/*************************************************/
+/*颜色的定义
+/*************************************************/
+.orange {
+  color: rgb(255, 149, 0) !important;
+}
+
+.orange-bg {
+  background-color: rgb(255, 149, 0) !important;
+}
+
+.orange-bd {
+  border-color: rgb(255, 149, 0) !important;
+}
+
+.orange-light-bg {
+  background-color: rgb(246, 183, 93) !important;
+}
+
+.white {
+  color: rgb(255, 255, 255) !important;
+}
+
+.white-bg {
+  background-color: rgb(255, 255, 255) !important;
+}
+
+.white-bd {
+  border-color: rgb(255, 255, 255) !important;
+}
+
+.black {
+  color: rgb(0, 0, 0) !important;
+}
+
+.black-dark {
+  color: rgb(51, 51, 51) !important;
+}
+
+.dark-black-bg {
+  background-color: rgb(51, 51, 51) !important;
+}
+
+.dark-black-bd {
+  border-color: rgb(51, 51, 51) !important;
+}
+
+.black-medium {
+  color: rgb(153, 153, 153) !important;
+}
+.black-light {
+  color: rgb(200, 200, 200) !important;
+}
+.black-light-bd {
+  border-color: rgb(200, 200, 200) !important;
+}
+.black-light-bg {
+  background-color: rgb(242, 242, 242) !important;
+}
+
+/*************************************************/
+/*形状的定义
+/*************************************************/
+.no-bd {
+  border: 0;
+}
+
+.normal-btn-bd {
+    border-style: solid;
+    border-width: 1px;
+}
+
+.roundbtn, .leftround {
+    border-top-left-radius: 1em;
+    border-bottom-left-radius: 1em;
+}
+
+.roundbtn, .rightround {
+    border-top-right-radius: 1em;
+    border-bottom-right-radius: 1em; 
+}
+
+.square-btn, .roundbtn{
+    padding: 1em 1em;
+}
+
+/*************************************************/
+/*位置的定义
+/*************************************************/
+.left-float{
+  float:left;
+}
+
+.right-float {
+  float: right;
+}
+
+.full-panel {
+  width: 80%;
+  overflow: hidden;
+}
+
+/*************************************************/
+/*特别的定义
+/*************************************************/
+.listItem-container {
+  margin: 2.5%  8%;
+  padding: 1%  2.5%;
+}
+
+.titleItem-container {
+  margin: 0 5%;
+}
+
+.list-container {
+  margin: 3em 0 0 0;
+  padding: 0;
+}
